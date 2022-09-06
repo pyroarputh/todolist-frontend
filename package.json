@@ -14,12 +14,9 @@
     "moment": "^2.29.4",
     "mui-datatables": "^4.2.2",
     "react": "^18.2.0",
-    "react-data-table-component": "^7.5.3",
-    "react-data-table-component-with-filter": "^7.4.5",
     "react-dom": "^18.2.0",
     "react-router-dom": "6",
     "react-scripts": "5.0.1",
-    "storybook": "^6.5.10",
     "styled-components": "^5.3.5",
     "web-vitals": "^2.1.4"
   },
